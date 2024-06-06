@@ -17,5 +17,5 @@
  
 <div>
   
-  <a href="https://www.linkedin.com/in/rafael-borges-dizaró" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafael-borges-dizar%C3%B3-2615502b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
